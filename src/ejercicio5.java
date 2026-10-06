@@ -15,7 +15,6 @@ public class ejercicio5 {
         for (int i = 9; i >= 0; i--) {
             System.out.println("Número" + " " + countN--);
             System.out.println(num[i]);
-
         }
     }
 }
